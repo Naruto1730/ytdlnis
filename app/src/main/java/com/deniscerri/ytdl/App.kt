@@ -1,3 +1,4 @@
+//Copyright ©️ Naruto Dev
 package com.deniscerri.ytdl
 
 import android.app.Application
